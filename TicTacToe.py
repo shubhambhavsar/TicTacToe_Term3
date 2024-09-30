@@ -81,7 +81,6 @@ else:
 st.markdown("<br>", unsafe_allow_html=True)
 if st.button("Reset Game", key="reset"):
     reset_game()
-    st.experimental_rerun() 
 
 
 # ----------------------------------------------------------------------------------------------
