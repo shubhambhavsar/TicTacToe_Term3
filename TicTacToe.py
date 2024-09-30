@@ -48,7 +48,7 @@ def move(row, col):
 # -----------------------------------------------------------------------------------------
 
 # ---------------------------Game UI using Streamlit---------------------------------------
-st.title("Multiplayer Tic Tac Toe")
+st.title("Tic Tac Toe Game:")
 st.markdown("Player 1 will be assigned: X")
 st.markdown("Player 2 will be assigned: O")
 
